@@ -1,0 +1,7 @@
+{
+  "name": "CardSnap Web",
+  "description": "AI-powered digital wallet and card scanner using Google Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
